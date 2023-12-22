@@ -4,7 +4,7 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello, k World! 8 Everybody Dance!")
+console.log('Hello, 8 to the World! boy oh boy')
 
 /*  
 Next, PLAY! 
